@@ -45,7 +45,10 @@ namespace NotasEstudiante
 
         protected void GridViewNotes_RowCommand(object sender, GridViewCommandEventArgs e)
         {
+            int index = Convert.ToInt32(e.CommandArgument);
 
         }
+
+
     }
 }

@@ -110,6 +110,7 @@
     <Compile Include="Notas.aspx.designer.cs">
       <DependentUpon>Notas.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,35 +1,35 @@
-﻿Carne;Nombre;Apellido;P1;P2;P3;T1;T2;T3;Zona
-19002001;Mainor;Hernández;14;10;12;5;4;2;47
-19002002;German;Cordón;12;12;7;2;5;5;43
+Carne;Nombre;Apellido;P1;P2;P3;T1;T2;T3;Zona
+19002001;Mainor;Hern�ndez;14;10;12;5;5;5;51
+19002002;German;Cord�n;12;12;7;2;5;5;43
 19002003;Kevin;Domingo;8;6;12;5;5;3;39
-19002004;Brandon;Meneses;14;5;13;4;3;5;44
-19002005;Ronal;Marroquín;5;15;6;5;5;5;41
+19002004;Brandon;Meneses;14;5;13;4;4;5;45
+19002005;Ronal;Marroqu�n;5;15;6;5;5;5;41
 19002006;Miguel;Coronado;12;7;6;4;2;3;34
-19002007;Cervando;Martínez;10;11;12;4;4;5;46
-19002008;Angel;Ramírez ;9;13;5;3;3;2;35
-19002009;Edgar;Chávez;10;9;8;3;3;5;38
-19002010;Patrick;Cubías;6;10;11;3;2;4;36
-19002011;Osman;Rodríguez;5;14;13;5;4;4;45
+19002007;Cervando;Mart�nez;10;11;12;4;4;5;46
+19002008;Angel;Ram�rez ;9;13;5;3;3;2;35
+19002009;Edgar;Ch�vez;10;9;8;3;3;5;38
+19002010;Patrick;Cub�as;6;10;11;3;2;4;36
+19002011;Osman;Rodr�guez;5;14;13;5;4;4;45
 19002012;Abner;Ramos;7;14;15;4;5;2;47
-19002013;Juan;Chávez;12;13;9;5;3;5;47
-19002014;Carlos ;Rodríguez;12;11;10;3;2;3;41
+19002013;Juan;Ch�vez;12;13;9;5;3;5;47
+19002014;Carlos ;Rodr�guez;12;11;10;3;2;3;41
 19002015;Magno;Yac;15;13;5;2;5;3;43
 19002016;Gustavo;Espinoza;13;11;15;2;3;2;46
 19002017;Nixon;Rivera;15;12;13;4;2;5;51
 19002018;Mario;Mancio;5;6;9;2;3;5;30
 19002019;Erwin;Ochoa;10;15;12;3;2;2;44
 19002020;Victor;Chay;12;7;13;4;5;3;44
-19002021;Maynor;López;6;7;13;2;5;4;37
+19002021;Maynor;L�pez;6;7;13;2;5;4;37
 19002022;Luis;Aguilon;11;8;11;5;5;3;43
 19002023;Kevin;Montufar;14;10;6;2;3;4;39
 19002024;Erikson;Samayoa;14;8;12;2;3;2;41
 19002025;Goiry;Arriola ;11;8;11;2;3;2;37
-19002026;Lucas;Gómez ;7;7;7;3;4;3;31
+19002026;Lucas;G�mez ;7;7;7;3;4;3;31
 19002027;Moises;Samayoa;8;6;8;4;5;2;33
 19002028;Felipe;Solval;15;7;14;4;2;4;46
 19002029;Widman;Ambrosio;10;6;7;5;3;3;34
 19002030;Gerson;Pac ;13;12;11;4;2;2;44
-19002031;Emy ;Hernández;14;6;14;5;4;5;48
-19002032;José ;de la Crúz;15;13;15;5;2;2;52
-19002033;Victor;Hernández;6;10;10;5;4;2;37
-19002034;Diana ;Gálvez;15;8;13;4;3;3;46
+19002031;Emy ;Hern�ndez;14;6;14;5;4;5;48
+19002032;Jos� ;de la Cr�z;15;13;15;5;2;2;52
+19002033;Victor;Hern�ndez;6;10;10;5;4;2;37
+19002034;Diana ;G�lvez;15;8;13;4;3;3;46
